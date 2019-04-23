@@ -21,12 +21,6 @@ Front End client application for the [Java microservice](https://github.com/Sigm
 
 ---
 
-## System Requirements
-
-
-## Useful Commands
-* Run unit tests `npm test`
-
 ## Committing Code
 1. Create a new branch and commit your changes to that branch.
 2. When you are ready to merge, do a rebase against master to put your commits at the end.
@@ -35,3 +29,33 @@ Front End client application for the [Java microservice](https://github.com/Sigm
 ---
 
 ![Sigma ITC](https://sigmaitc.github.io/images/sigma-logo.png) <img src="https://sigmaitc.github.io/images/java.png" alt="Java" width="120" />
+
+# java-competence-vue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
